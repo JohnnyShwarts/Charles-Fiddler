@@ -163,7 +163,7 @@ response:
 ```
 __Task:__
 Сделать и в __Rewrite__, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
- ⁃ Сделать через __Charles__ так, чтобы в Postman вернулся ответ, в котором __qa_salary_after_1.5_year__ переименовано в __qa_salary_after_1.5_month__
- ⁃ Сделать так чтобы __qa_salary_after_3.5_years__ было меньше __qa_salary_after_12_months в response__
+* Сделать через __Charles__ так, чтобы в Postman вернулся ответ, в котором __qa_salary_after_1.5_year__ переименовано в __qa_salary_after_1.5_month__
+* Сделать так чтобы __qa_salary_after_3.5_years__ было меньше __qa_salary_after_12_months в response__
  
  ![ex6_1s](https://user-images.githubusercontent.com/104720406/178480869-80c16b46-7efb-4251-9529-96d8577a5a97.png)
